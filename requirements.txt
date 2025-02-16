@@ -1,3 +1,4 @@
+python==3.11.9
 streamlit==1.23.1
 plotly==5.11.0
 scikit-learn==1.1.1
