@@ -5,4 +5,4 @@ pandas==2.2.2
 numpy==1.22.3
 setuptools
 pip
-python3.12-distutils
+distutils
