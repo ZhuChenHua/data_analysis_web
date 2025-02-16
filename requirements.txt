@@ -1,7 +1,8 @@
-streamlit==1.38.0
+streamlit==1.21.6
 plotly==5.11.0
 scikit-learn==1.3.2
 pandas==2.2.2
 numpy==1.22.3
+setuptools
 pip
 distutils
