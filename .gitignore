@@ -1,0 +1,30 @@
+# Python 编译文件
+*__pycache__/
+__pycache__/
+
+# 项目构建和打包相关
+build/
+dist/
+*.egg-info/
+.git/
+
+# 虚拟环境
+.venv/
+env/
+venv/
+
+# 测试和覆盖率报告
+.coverage
+htmlcov/
+.pytest_cache/
+
+# 配置和日志文件
+*.log
+.env
+.streamlit/secrets.toml
+
+# 数据文件
+data/data1.csv
+
+# 编辑器和 IDE 配置
+.vscode/
